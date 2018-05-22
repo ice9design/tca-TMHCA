@@ -1,0 +1,230 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #f0f0f0;
+	background-image: url(TCA_PageBG.jpg);
+	background-repeat: repeat-x;
+}
+body,td,th {
+	color: #333333;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size: 11px;
+}
+p {
+	letter-spacing: .04em;
+	line-height: 1.6em;
+}
+h1 {
+	font-size: 14px;
+	color: #000066;
+	text-align: center;
+}
+h2 {
+	font-size: 14px;
+	color: #000066;
+}
+h3 {
+	font-size: 12px;
+	color: #000066 /*#5b5f61*/;
+}
+
+h4 {
+	font-size: 12px;
+	color: #000000 /*#eb6a29*/;
+}
+
+h5 {
+	font-size: 1em;
+	color: #F02916 /*#4ba731*/;
+}
+
+a:link {
+	color: #0000CC;
+}
+a:visited {
+	color: #999999;
+}
+a:hover {
+	color: #3333FF;
+}
+a:active {
+	color: #000066;
+}
+#PrintLogo {
+	display: none;
+}
+#HeaderLogo {
+	
+}
+#HeaderImage {
+
+}
+#TopNav {
+	background-color: #000099;
+	margin-top: 5px;
+	margin-bottom: 6px;
+	height: 18px;
+	margin-right: 2px;
+	margin-left: 2px;
+	padding: 4px 5px 3px;
+	color: #FFFFFF;
+	text-align: right;
+	font-size: 10px;
+
+}
+#TopNav a{
+	color: #FFFFFF;
+}
+#Container{
+	background-color: #FFFFFF;
+	border-right-width: 1px;
+	border-bottom-width: 4px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-right-color: #bebebe;
+	border-bottom-color: #bebebe;
+	border-left-color: #bebebe;
+	width: 738px;
+
+}
+#LeftNav {
+	width: 180px;
+	background-color: #333333;
+
+}
+#Content {
+	padding: 8px 15px;
+	margin-right: 8px;
+	margin-left: 8px;
+	margin-top: 8px;
+	background-image: url(TCA_TexasBG.jpg);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+#Footer {
+	padding: 8px;
+
+}
+#FooterText {
+	float: left;
+	font-size: 9px;
+
+}
+#FooterxCat {
+	padding: 2px 2px 2px 10px;
+	float: right;
+
+
+}
+#Breadcrumbs {
+	clear: right;
+	margin-bottom: 10px;
+	font-size: 10px;
+}
+form {
+	margin: 0px;
+	padding: 0px;
+}
+.TopNavSearchBox{
+	font-size: 10px;
+}
+.TopNavSearchButton{
+	font-size: 10px;
+}
+.LeftNavAddress {
+	font-size: 9px;
+	color: #CCCCCC;
+	text-align: right;
+	padding: 5px 10px 5px 5px;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+hr {
+	color: #CCCCCC;
+	margin: 1px;
+	height: 1px;
+	padding: 0px;
+}
+li {
+	padding-bottom: 8px;
+}
+.FormHeader {
+	font-size: 12px;
+	font-weight: bold;
+}
+.FormField {
+	font-size: 10px;
+}
+.FormLabel {
+	font-weight: bold;
+}
+.FormText {
+	font-size: 10px;
+}
+.FormDisplayText {
+	font-size: 10px;
+}
+.FormHelpText {
+	font-size: 10px;
+}
+.FormTR {
+	font-size: 10px;
+}
+.FormTD {
+	font-size: 10px;
+}
+.FormTable {
+	font-size: 10px;
+}
+.gridtable {
+
+
+}
+.gridcol {
+	padding: 3px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+}
+
+.gridrow {
+
+}
+.DLGDFL {
+	font-weight: bold;
+	padding: 2px;
+
+}
+.DLGDFV {
+	padding: 2px;
+
+}
+.DLGTT2 {
+	font-weight: bold;
+	background-color: #e1e1e1;
+	padding: 3px;
+}
+.DLGTT1 {
+	font-weight: bold;
+	background-color: #f1f1f1;
+	padding: 3px;
+}
+.FunctionDate {
+	font-size:8px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	width: auto;
+	white-space: nowrap;
+}
+.FunctionFee {
+	font-size:9px;
+	font-style: italic;
+}
+.FunctionName {
+	font-size:10px;
+	font-weight: bold;
+	display: inline;
+	clear: right;
+}
